@@ -7,5 +7,7 @@
         "id":1,
         "name":"sp",
         "age":23
-    }]
+    }],
+    "users":[],
+    "hotels":[]
 }
