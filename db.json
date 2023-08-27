@@ -9,5 +9,47 @@
         "age":23
     }],
     "users":[],
-    "hotels":[]
+    "hotels":[],
+     "transaction_History":[
+        {
+            "id":0,
+            "firstName":"John",
+            "lastName": "Doe",
+            "location":"Sent",
+            "money":"$310",
+            "date":"14 Jan 2023"
+        },
+        {
+            "id":1,
+            "firstName":"Jahir",
+            "lastName": "Pendhari",
+            "location":"Received",
+            "money":"$1000",
+            "date":"15 Feb 2023"
+        },
+        {
+            "id":2,
+            "firstName":"Akshay",
+            "lastName": "Patil",
+            "location":"Exchange",
+            "money":"$100",
+            "date":"21 Feb 2023"
+        },
+        {
+            "id":4,
+            "firstName":"TATA",
+           " lastName": "Balanced",
+            "location":"Mutual Funds",
+            "money":"$500",
+            "date":"25 Feb 2023"
+        },
+         {
+            "id":5,
+            "firstName":"Salman",
+            "lastName": "Khan",
+            "location":"Recieved",
+            "money":"$150",
+            "date":"25 Feb 2023"
+        }
+    ]
 }
