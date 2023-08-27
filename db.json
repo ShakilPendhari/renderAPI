@@ -38,7 +38,7 @@
         {
             "id":4,
             "firstName":"TATA",
-           " lastName": "Balanced",
+            "lastName": "Balanced",
             "location":"Mutual Funds",
             "money":"$500",
             "date":"25 Feb 2023"
