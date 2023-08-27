@@ -8,7 +8,11 @@
         "name":"sp",
         "age":23
     }],
-    "users":[],
+    "users":[{
+        "id":0,
+        "email":"jahirpp1999@gmail.com",
+        "password":"1234"
+    }],
     "hotels":[],
      "transaction_History":[
         {
