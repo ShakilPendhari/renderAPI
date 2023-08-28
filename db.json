@@ -11,7 +11,11 @@
     "users":[{
         "id":0,
         "email":"jahirpp1999@gmail.com",
-        "password":"1234"
+        "password":"1234",
+        "mobile":"8668953367",
+        "firstName":"Jahir",
+        "lastName":"Pendhari",
+        "gender":"male"
     }],
     "hotels":[],
      "transaction_History":[
