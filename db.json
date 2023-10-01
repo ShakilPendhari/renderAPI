@@ -8,6 +8,226 @@
         "name":"sp",
         "age":23
     }],
-    "users":[],
-    "hotels":[]
+    "users":[{
+        "id":0,
+        "email":"jahirpp1999@gmail.com",
+        "password":"1234",
+        "mobile":"8668953367",
+        "firstName":"Jahir",
+        "lastName":"Pendhari",
+        "gender":"male"
+    }],
+    "hotels":[],
+     "transaction_History":[
+        {
+            "id":0,
+            "firstName":"John",
+            "lastName": "Doe",
+            "location":"Sent",
+            "money":"$310",
+            "date":"14 Jan 2023"
+        },
+        {
+            "id":1,
+            "firstName":"Jahir",
+            "lastName": "Pendhari",
+            "location":"Received",
+            "money":"$1000",
+            "date":"15 Feb 2023"
+        },
+        {
+            "id":2,
+            "firstName":"Akshay",
+            "lastName": "Patil",
+            "location":"Exchange",
+            "money":"$100",
+            "date":"21 Feb 2023"
+        },
+        {
+            "id":4,
+            "firstName":"TATA",
+            "lastName": "Balanced",
+            "location":"Mutual Funds",
+            "money":"$500",
+            "date":"25 Feb 2023"
+        },
+         {
+            "id":5,
+            "firstName":"Salman",
+            "lastName": "Khan",
+            "location":"Recieved",
+            "money":"$150",
+            "date":"25 Feb 2023"
+        }
+    ],
+    "products":[
+        {
+            "id": 0,
+            "title": "WATERCOLOUR LANDSCAPES",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROhpJNcpMNUSvE8-pAqohS1gmRv-dP5sACxduKQnN7rqP3UNe1W4hEhUFE44JVo4NCDaY&usqp=CAU",
+            "price": 1500,
+            "rating": 3.8,
+            "brand": "Painting Mantra"
+        },
+        {
+            "id": 1,
+            "title": "Abstract Green Oil",
+            "image": "https://i.ebayimg.com/images/g/PtkAAOSw2N9jFWD2/s-l1200.webp",
+            "price": 2300,
+            "rating": 4.1,
+            "brand": "Pidilite"
+        },
+        {
+            "id": 2,
+            "title": "Vertical Abstract Oil",
+            "image": "https://i.ebayimg.com/images/g/DAgAAOSwpAdkAAud/s-l500.jpg",
+            "price": 1030,
+            "rating": 3.8,
+            "brand": "Pitaara Box"
+          },
+          {
+            "id": 3,
+            "title": "Beautiful Mountain Art",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrPYJ3w1gxoVrPJAnWRz9w0ibKMpP5MC0VjQ&usqp=CAU",
+            "price": 5500,
+            "rating": 4.8,
+            "brand": "Wall Design"
+          },
+          {
+            "id": 4,
+            "title": "Krishna ji Religious UV Textured Wall Painting for Home",
+            "image": "https://rukminim2.flixcart.com/image/612/612/kzrbiq80/painting/j/c/2/30-5-sanfpnls32218-saf-original-imagbpfxyqzpk6u9.jpeg?q=70",
+            "price": 3200,
+            "rating": 4.2,
+            "brand": "Painting Mantra"
+          },
+          {
+            "id": 5,
+            "title": "Digital Reprint ",
+            "image": "https://rukminim2.flixcart.com/image/416/416/ktn9pjk0/painting/w/h/d/18-3-sanfjm32427-saf-original-imag6y75zcmheccy.jpeg?q=70",
+            "price": 500,
+            "rating": 3.2,
+            "brand": "Pitaara Box"
+          },
+          {
+            "id": 6,
+            "title": "Unframed Rolled Art ",
+            "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/sticker/k/k/w/large-unframed-rolled-art-print-modern-art-canvas-for-home-d-cor-original-imagtdrs6dt4yv3z.jpeg?q=70",
+            "price": 700,
+            "rating": 3.2,
+            "brand": "Painting Mantra"
+          },
+          {
+            "id": 7,
+            "title": "7 Horses Sunrise",
+            "image": "https://rukminim2.flixcart.com/image/416/416/k5o7r0w0/poster/x/y/9/large-vastu-7-running-horses-on-6-mm-mdf-board-kafh19-original-imafmrz6x3ca9ksx.jpeg?q=70",
+            "price": 1300,
+            "rating": 3.7,
+            "brand": "Pidilite"
+          },
+          {
+            "id": 8,
+            "title": "WALLMAX African Lady set",
+            "image": "https://rukminim2.flixcart.com/image/416/416/l4fxh8w0/painting/r/c/i/30-5-wag-rd9761-wallmax-original-imagfcmmducy5zmc.jpeg?q=70",
+            "price": 3800,
+            "rating": 3.5,
+            "brand": "Wall Design"
+          },
+          {
+            "id": 9,
+            "title": "Elephants Large Synthetic Framed Painting",
+            "image": "https://rukminim2.flixcart.com/image/416/416/joq2qa80/painting/6/q/a/7989-1-art-of-creations-original-imaf998hhhrkczr4.jpeg?q=70",
+            "price": 2500,
+            "rating": 3.9,
+            "brand": "Pidilite"
+          },
+          {
+            "id": 10,
+            "title": "Pitaara Box Canvas Painting ",
+            "image": "https://m.media-amazon.com/images/I/71IIEsdQFQL._SY450_.jpg",
+            "price": 750,
+            "rating": 3.3,
+            "brand": "Wall Design"
+          },
+          {
+            "id": 11,
+            "title": "Inephos Cotton and Wood 7 Horses Running Vastu Framed Painting",
+            "image": "https://m.media-amazon.com/images/I/71PwsOq1ewL._AC_UL480_FMwebp_QL65_.jpg",
+            "price": 2230,
+            "rating": 4.3,
+            "brand": "Pidilite"
+          },
+          {
+            "id": 12,
+            "title": "KYARA ARTS Multiple Frames",
+            "image": "https://m.media-amazon.com/images/I/81lIMcgQwrL._AC_UL480_FMwebp_QL65_.jpg",
+            "price": 2099,
+            "rating": 4.3,
+            "brand": "Painting Mantra"
+          },
+          {
+            "id": 13,
+            "title": "Rock Mountain Painting",
+            "image": "https://m.media-amazon.com/images/I/41M+edrCr9L._SY300_SX300_.jpg",
+            "price": 2999,
+            "rating": 3.4,
+            "brand": "Pidilite"
+          },
+          {
+            "id": 14,
+            "title": "Tall building Painting",
+            "image": "https://m.media-amazon.com/images/I/91kP7SOKXSL._SX466_.jpg",
+            "price": 1699,
+            "rating": 2.8,
+            "brand": "Wall Design"
+          },
+          {
+            "id": 15,
+            "title": "God Ganesh Painting",
+            "image": "https://m.media-amazon.com/images/I/612nRJE4ZKL._SY450_.jpg",
+            "price": 2200,
+            "rating": 4.1,
+            "brand": "Pidilite"
+          },
+          {
+            "id": 16,
+            "title": "Kerala Mural Art Painting",
+            "image": "https://m.media-amazon.com/images/I/51hRU0F6ebL._SY300_SX300_QL70_FMwebp_.jpg",
+            "price": 2204,
+            "rating": 3.7,
+            "brand": "Pidilite"
+          },
+          {
+            "id": 17,
+            "title": "Jesus Christ Painting",
+            "image": "https://m.media-amazon.com/images/I/51CMJ-BdU6L._SY300_SX300_QL70_FMwebp_.jpg",
+            "price": 2549,
+            "rating": 4.9,
+            "brand": "Wall Design"
+          },
+          {
+            "id": 18,
+            "title": " Wooden Stretched Framed Wall Painting",
+            "image":"https://m.media-amazon.com/images/I/41yAB8HP16S._SX300_SY300_QL70_FMwebp_.jpg",
+            "price": 1350,
+            "rating": 3.3,
+            "brand": "Pitaara Box"
+          },
+          {
+            "id": 19,
+            "title": "Nature view wall Painting",
+            "image": "https://m.media-amazon.com/images/I/81lIMcgQwrL._AC_UL480_QL65_.jpg",
+            "price": 3600,
+            "rating": 4.6,
+            "brand": "Painting Mantra"
+          },
+          {
+            "id": 20,
+            "title": "Vintage Chattrapati Shivaji Maharaj Horse Ride Wall Painting",
+            "image": "https://m.media-amazon.com/images/I/71Ao9MZZ1ML._SX466_.jpg",
+            "price": 5420,
+            "rating": 4.3,
+            "brand": "Pitaara Box"
+        }
+    ]
 }
